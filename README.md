@@ -122,7 +122,6 @@ gradle :app:assembleDebug
 
 ## License
 
-Skylume is licensed under the **GNU General Public License v3.0 (GPL-3.0-or-later)** (`SPDX-License-Identifier: GPL-3.0-or-later`).
+Skylume is licensed under the MIT License (`SPDX-License-Identifier: MIT`).
 
-See the official [GNU GPLv3 license text](https://www.gnu.org/licenses/gpl-3.0.txt) for full terms and conditions.
-
+See [`LICENSE.txt`](LICENSE.txt) for full terms and conditions.
