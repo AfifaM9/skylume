@@ -1,0 +1,6 @@
+{
+  "name": "Skylume",
+  "description": "Atmospheric weather visualizer with Gemini-generated 3D miniature landmark dioramas for any location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

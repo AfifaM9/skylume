@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Skylume</string>
+    <string name="cd_search_location">Search or switch location</string>
+    <string name="cd_use_current_location">Use current device location</string>
+    <string name="cd_regenerate_diorama">Regenerate 3D miniature skyline</string>
+    <string name="cd_toggle_immersive">Toggle immersive diorama view</string>
+    <string name="cd_toggle_unit">Switch temperature unit</string>
+    <string name="cd_back_to_weather">Show weather details</string>
+    <string name="diorama_generating">Sculpting 3D miniature landmarks for %1$s…</string>
+    <string name="diorama_generating_sub">Gemini is rendering architectural landmarks &amp; atmosphere</string>
+    <string name="retry">Retry</string>
+    <string name="search_cities_hint">Search any city or landmark location…</string>
+    <string name="saved_locations_title">Saved Locations</string>
+    <string name="popular_skylines_title">Iconic Skylines</string>
+    <string name="hourly_forecast_title">24-Hour Horizon</string>
+    <string name="daily_forecast_title">7-Day Outlook</string>
+    <string name="atmosphere_metrics_title">Atmospheric Telemetry</string>
+</resources>
